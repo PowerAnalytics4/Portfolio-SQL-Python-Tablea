@@ -4,6 +4,8 @@ This repository contains projects created in Tableau, along with analysis and in
 
 Among the projects presented here are:
 - AB testing tool
+
+  https://docs.google.com/document/d/1Akt9PV359FthAELnGCm1XAv6HRFYfSShKyff8PG-TMM/edit?usp=sharing
 - Sales report
 
   https://docs.google.com/document/d/1tO11uZ2cpPkpt24HhYSLlJ6dWJnk5G5Vhpoe_53cBk0/edit?usp=sharing
