@@ -7,5 +7,6 @@ Among the projects presented here are:
 - Sales report
 - Analytical dashboard for email metrics
 - Sessions report
+https://docs.google.com/document/d/1DD9PCzU4MMZM0X-zyTGU5OVWQLNFiiZKmEBB_CneNXg/edit?usp=drive_link
 
 These and other projects can be found in my Tableau profile (https://public.tableau.com/app/profile/abramov.volodymyr/vizzes)
