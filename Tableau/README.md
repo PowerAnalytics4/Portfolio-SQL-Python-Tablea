@@ -5,6 +5,8 @@ This repository contains projects created in Tableau, along with analysis and in
 Among the projects presented here are:
 - AB testing tool
 - Sales report
+
+  https://docs.google.com/document/d/1tO11uZ2cpPkpt24HhYSLlJ6dWJnk5G5Vhpoe_53cBk0/edit?usp=sharing
 - Analytical dashboard for email metrics
 
   https://docs.google.com/document/d/1lka-cPSBHYFr0ThuIIRPrLBHvz-pZYBoy29vLsap_0Q/edit?usp=drive_link
